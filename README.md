@@ -1,2 +1,2 @@
 # WebCalculator
-summation,multiplicatio,subtraction,divition,module...
+summation,multiplicatio,subtraction,division,module...Operations
